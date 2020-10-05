@@ -1,2 +1,19 @@
-# crack-pwd
-dictionary method to crack password, support for md5 and sha
+## dir structure (must have following file to run)
+- crack-pwd
+    hash.py
+    - Password List
+        - formspring
+            formspring.txt
+        - linkedin
+            SHA1.txt
+        - yahoo
+            password.file
+    - wordlist
+        rockyou.txt
+
+## wordlist
+Download rockyou.txt from https://wiki.skullsecurity.org/Passwords
+
+
+## encode
+If crack.txt displays un-correctly, it is because some of it not encoded as "utf-8", may be "ISO-8859-1".
