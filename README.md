@@ -16,4 +16,4 @@ Download rockyou.txt from https://wiki.skullsecurity.org/Passwords
 
 
 ## encode
-If crack.txt displays un-correctly, that is because some of it not encoded as "utf-8", may be "ISO-8859-1".
+If crack.txt displays un-correctly, that is because some of it not encoded as "ISO-8859-1", not "utf-8".
