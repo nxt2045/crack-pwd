@@ -1,3 +1,4 @@
+# sample cracking code of dictionary attack
 ## dir structure (must have following file to run)
 - crack-pwd
     hash.py
